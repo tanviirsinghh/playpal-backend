@@ -9,7 +9,12 @@ const Config = require("./config/index");
 const AuthRouter = require('./routes/auth');
 const UserRouter = require('./routes/user');
 
-mongoose.connect(Config.DATABASE.URL);
+mongoose.connect(Config.DATABASE.URL, {
+  useNewUrlParser: true,
+  useUnifiedTopology: true,
+  tls: true, // Ensure TLS/SSL is enabled
+  tlsAllowInvalidCertificates: false, // Ensure that invalid certificates are not allowed
+});
 const db = mongoose.connection;
 
 
