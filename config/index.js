@@ -1,5 +1,5 @@
 const Config = {
-    "HOST": "127.0.0.1",
+    "HOST": "0.0.0.0",
     "PORT": 3000,
     "DATABASE": {
         URL: "mongodb+srv://yanon6107:x1dKvHveqAjg8An4@contactform.iztmlxc.mongodb.net/"
