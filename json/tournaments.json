@@ -1,0 +1,308 @@
+[
+    {
+        "name": "Dream it bigger S19",
+        "location_id": "",
+        "type_of_game": "cricket",
+        "rank": "1",
+        "img": "",
+        "start_date": "12-may-7",
+        "end_date": "17-may-7",
+        "total_team_participation": "15",
+        "minimum_team": "10",
+        "tournament_days": "5",
+        "contact": "12345678910",
+        "eligibility": [
+            {
+                "age": "18+",
+                "proof": "Any Id",
+                "entry": "By e-ticket send on you mail ",
+                "gender": "Male",
+                "players": [
+                    {
+                        "playing": "11",
+                        "extra": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "CK Nayudu Trophy",
+        "location_id": "",
+        "type_of_game": "cricket",
+        "rank": "8",
+        "img": "",
+        "start_date": "12-may-7",
+        "end_date": "17-may-7",
+        "total_team_participation": "15",
+        "minimum_team": "10",
+        "tournament_days": "5",
+        "contact": "12345678910",
+        "eligibility": [
+            {
+                "age": "18+",
+                "proof": "Any Id",
+                "entry": "By e-ticket send on you mail ",
+                "gender": "Male",
+                "players": [
+                    {
+                        "playing": "11",
+                        "extra": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Deodhar Trophy",
+        "location_id": "",
+        "type_of_game": "cricket",
+        "rank": "11",
+        "img": "",
+        "start_date": "12-may-7",
+        "end_date": "17-may-7",
+        "total_team_participation": "15",
+        "minimum_team": "10",
+        "tournament_days": "5",
+        "contact": "12345678910",
+        "eligibility": [
+            {
+                "age": "18+",
+                "proof": "Any Id",
+                "entry": "By e-ticket send on you mail ",
+                "gender": "Male",
+                "players": [
+                    {
+                        "playing": "11",
+                        "extra": "2"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "name": "Duleep Trophy",
+        "location_id": "",
+        "type_of_game": "cricket",
+        "rank": "9",
+        "img": "",
+        "start_date": "12-may-7",
+        "end_date": "17-may-7",
+        "total_team_participation": "15",
+        "minimum_team": "10",
+        "tournament_days": "5",
+        "contact": "12345678910",
+        "eligibility": {
+            "age": "18+",
+            "proof": "Any Id",
+            "entry": "By e-ticket send on you mail ",
+            "gender": "Male",
+            "players": [
+                {
+                    "playing": "11",
+                    "extra": "2"
+                }
+            ]
+        }
+    },
+    {
+        "name": "RAJKORI PREMIER LEAGUE ",
+        "location_id": "",
+        "type_of_game": "cricket",
+        "rank": "7",
+        "img": "",
+        "start_date": "12-may-7",
+        "end_date": "17-may-7",
+        "total_team_participation": "15",
+        "minimum_team": "10",
+        "tournament_days": "5",
+        "contact": "12345678910",
+        "eligibility": {
+            "age": "18+",
+            "proof": "Any Id",
+            "entry": "By e-ticket send on you mail ",
+            "gender": "Male",
+            "players": [
+                {
+                    "playing": "11",
+                    "extra": "2"
+                }
+            ]
+        }
+    },
+    {
+        "name": "TCEI EPL SEASON 7",
+        "location_id": "664c33420fc43781628a2ae8",
+        "type_of_game": "cricket",
+        "rank": "2",
+        "img": "",
+        "start_date": "12-may-7",
+        "end_date": "17-may-7",
+        "total_team_participation": "15",
+        "minimum_team": "10",
+        "tournament_days": "5",
+        "contact": "12345678910",
+        "eligibility": {
+            "age": "18+",
+            "proof": "Any Id",
+            "entry": "By e-ticket send on you mail ",
+            "gender": "Male",
+            "players": [
+                {
+                    "playing": "11",
+                    "extra": "2"
+                }
+            ]
+        }
+    },
+    {
+        "name": "SHREE VAGAD KALA KENDRA TIMEX CUP",
+        "location_id": "664c33420fc43781628a2ae8",
+        "type_of_game": "cricket",
+        "rank": "4",
+        "img": "",
+        "start_date": "12-may-7",
+        "end_date": "17-may-7",
+        "total_team_participation": "15",
+        "minimum_team": "10",
+        "tournament_days": "5",
+        "contact": "12345678910",
+        "eligibility": {
+            "age": "18+",
+            "proof": "Any Id",
+            "entry": "By e-ticket send on you mail ",
+            "gender": "Male",
+            "players": [
+                {
+                    "playing": "11",
+                    "extra": "2"
+                }
+            ]
+        }
+    },
+    {
+        "name": " IAGC Low Country tournament-2024",
+        "location_id": "664c33420fc43781628a2ae8",
+        "type_of_game": "cricket",
+        "rank": "3",
+        "img": "",
+        "start_date": "12-may-7",
+        "end_date": "17-may-7",
+        "total_team_participation": "15",
+        "minimum_team": "10",
+        "tournament_days": "5",
+        "contact": "12345678910",
+        "eligibility": {
+            "age": "18+",
+            "proof": "Any Id",
+            "entry": "By e-ticket send on you mail ",
+            "gender": "Male",
+            "players": [
+                {
+                    "playing": "11",
+                    "extra": "2"
+                }
+            ]
+        }
+    },
+    {
+        "name": "32nd Kalpesh Govind Koli Memorial Cricket Tournament 2023-24",
+        "location_id": "664c33420fc43781628a2ae8",
+        "type_of_game": "cricket",
+        "rank": "5",
+        "img": "",
+        "start_date": "12-may-7",
+        "end_date": "17-may-7",
+        "total_team_participation": "15",
+        "minimum_team": "10",
+        "tournament_days": "5",
+        "contact": "12345678910",
+        "eligibility": {
+            "age": "18+",
+            "proof": "Any Id",
+            "entry": "By e-ticket send on you mail ",
+            "gender": "Male",
+            "players": [
+                {
+                    "playing": "11",
+                    "extra": "2"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Rathod Trophy U-23 MCA Tournament  ",
+        "location_id": "664c33420fc43781628a2ae9",
+        "type_of_game": "cricket",
+        "rank": "10",
+        "img": "",
+        "start_date": "12-may-7",
+        "end_date": "17-may-7",
+        "total_team_participation": "15",
+        "minimum_team": "10",
+        "tournament_days": "5",
+        "contact": "12345678910",
+        "eligibility": {
+            "age": "18+",
+            "proof": "Any Id",
+            "entry": "By e-ticket send on you mail ",
+            "gender": "Male",
+            "players": [
+                {
+                    "playing": "11",
+                    "extra": "2"
+                }
+            ]
+        }
+    },
+    {
+        "name": "Corporate Cricket Carnival - SEASON ",
+        "location_id": "664c33420fc43781628a2aea",
+        "type_of_game": "cricket",
+        "rank": "8",
+        "img": "",
+        "start_date": "12-may-7",
+        "end_date": "17-may-7",
+        "total_team_participation": "15",
+        "minimum_team": "10",
+        "tournament_days": "5",
+        "contact": "12345678910",
+        "eligibility": {
+            "age": "18+",
+            "proof": "Any Id",
+            "entry": "By e-ticket send on you mail ",
+            "gender": "Male",
+            "players": [
+                {
+                    "playing": "11",
+                    "extra": "2"
+                }
+            ]
+        }
+    },
+    {
+        "name": "32nd Kalpesh Govind Koli Memorial Cricket Tournament 2023-24",
+        "location_id": "664c33420fc43781628a2aea",
+        "type_of_game": "cricket",
+        "rank": "2",
+        "img": "",
+        "start_date": "12-may-7",
+        "end_date": "17-may-7",
+        "total_team_participation": "15",
+        "minimum_team": "10",
+        "tournament_days": "5",
+        "contact": "12345678910",
+        "eligibility": {
+            "age": "18+",
+            "proof": "Any Id",
+            "entry": "By e-ticket send on you mail ",
+            "gender": "Male",
+            "players": [
+                {
+                    "playing": "11",
+                    "extra": "2"
+                }
+            ]
+        }
+    }
+]

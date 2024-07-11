@@ -1,0 +1,110 @@
+[
+    {
+        "colleges": "D.A.V College jalandhar",
+        "course_id": "6640e6a20fc43781628a29d8",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fcollege%2Fnational-institute-of-technology-jalandhar-24247&psig=AOvVaw13w9IP-WMdrJ-AQZ6NMXGu&ust=1715614395575000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPizx-a3iIYDFQAAAAAdAAAAABAE",
+        "status": "active",
+        "rating": "5/10",
+        "fees": "25000",
+        "rank": "1"
+    },
+    {
+        "colleges": "Doaba college jalandhar ",
+        "course_id": "6640e6a20fc43781628a29d9",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fcollege%2Fnational-institute-of-technology-jalandhar-24247&psig=AOvVaw13w9IP-WMdrJ-AQZ6NMXGu&ust=1715614395575000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPizx-a3iIYDFQAAAAAdAAAAABAE",
+        "status": "active",
+        "rating": "8.5/10",
+        "fees": "25000",
+        "rank": "2"
+    },
+    {
+        "colleges": "Doaba college jalandhar ",
+        "course_id": "6640e6a20fc43781628a29da",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fcollege%2Fnational-institute-of-technology-jalandhar-24247&psig=AOvVaw13w9IP-WMdrJ-AQZ6NMXGu&ust=1715614395575000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPizx-a3iIYDFQAAAAAdAAAAABAE",
+        "status": "active",
+        "rating": "9/10",
+        "fees": "25000",
+        "rank": "3"
+    },
+    {
+        "colleges": "IIMA - Indian Institute of Management ",
+        "course_id": "6640e6a20fc43781628a29db",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fcollege%2Fnational-institute-of-technology-jalandhar-24247&psig=AOvVaw13w9IP-WMdrJ-AQZ6NMXGu&ust=1715614395575000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPizx-a3iIYDFQAAAAAdAAAAABAE",
+        "status": "active",
+        "rating": "10/10",
+        "fees": "25000",
+        "rank": "4"
+    },
+    {
+        "colleges": "MDI Gurgaon",
+        "course_id": "6640e6a20fc43781628a29d8",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fcollege%2Fnational-institute-of-technology-jalandhar-24247&psig=AOvVaw13w9IP-WMdrJ-AQZ6NMXGu&ust=1715614395575000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPizx-a3iIYDFQAAAAAdAAAAABAE",
+        "status": "active",
+        "rating": "10/10",
+        "fees": "25000",
+        "rank": "5"
+    },
+    {
+        "colleges": "Doaba college jalandhar ",
+        "course_id": "6640e6a20fc43781628a29d9",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fcollege%2Fnational-institute-of-technology-jalandhar-24247&psig=AOvVaw13w9IP-WMdrJ-AQZ6NMXGu&ust=1715614395575000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPizx-a3iIYDFQAAAAAdAAAAABAE",
+        "status": "active",
+        "rating": "8/10",
+        "fees": "25000",
+        "rank": "6"
+    },
+    {
+        "colleges": "IIFT Delhi ",
+        "course_id": "6640e6a20fc43781628a29da",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fcollege%2Fnational-institute-of-technology-jalandhar-24247&psig=AOvVaw13w9IP-WMdrJ-AQZ6NMXGu&ust=1715614395575000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPizx-a3iIYDFQAAAAAdAAAAABAE",
+        "status": "active",
+        "rating": "9-5/10",
+        "fees": "25000",
+        "rank": "7"
+    },
+    {
+        "colleges": "SP jain ",
+        "course_id": "6640e6a20fc43781628a29db",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fcollege%2Fnational-institute-of-technology-jalandhar-24247&psig=AOvVaw13w9IP-WMdrJ-AQZ6NMXGu&ust=1715614395575000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPizx-a3iIYDFQAAAAAdAAAAABAE",
+        "status": "active",
+        "rating": "4/10",
+        "fees": "25000",
+        "rank": "8"
+    },
+    {
+        "colleges": "IIMC India institute and management ",
+        "course_id": "6646f71e0fc43781628a2a9e",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fcollege%2Fnational-institute-of-technology-jalandhar-24247&psig=AOvVaw13w9IP-WMdrJ-AQZ6NMXGu&ust=1715614395575000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPizx-a3iIYDFQAAAAAdAAAAABAE",
+        "status": "active",
+        "rating": "5/10",
+        "fees": "25000",
+        "rank": "9"
+    },
+    {
+        "colleges": " IIM Bangalore India institute and management",
+        "course_id": "6646f71e0fc43781628a2a9e",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fcollege%2Fnational-institute-of-technology-jalandhar-24247&psig=AOvVaw13w9IP-WMdrJ-AQZ6NMXGu&ust=1715614395575000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPizx-a3iIYDFQAAAAAdAAAAABAE",
+        "status": "active",
+        "rating": "10/10",
+        "fees": "25000",
+        "rank": "10"
+    },
+    {
+        "colleges": "IIML India institute and management ",
+        "course_id": "6646f71e0fc43781628a2a9e",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fcollege%2Fnational-institute-of-technology-jalandhar-24247&psig=AOvVaw13w9IP-WMdrJ-AQZ6NMXGu&ust=1715614395575000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPizx-a3iIYDFQAAAAAdAAAAABAE",
+        "status": "active",
+        "rating": "9/10",
+        "fees": "25000",
+        "rank": "11"
+    },
+    {
+        "colleges": "IIMI India institute and management ",
+        "course_id": "6646f71e0fc43781628a2a9e",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fcollege%2Fnational-institute-of-technology-jalandhar-24247&psig=AOvVaw13w9IP-WMdrJ-AQZ6NMXGu&ust=1715614395575000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPizx-a3iIYDFQAAAAAdAAAAABAE",
+        "status": "active",
+        "rating": "8/10",
+        "fees": "25000",
+        "rank": "12"
+    }
+]

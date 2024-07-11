@@ -1,0 +1,50 @@
+[
+    {
+        "name": "BE/B.tech",
+        "goal_id": "664245f50fc43781628a2a47"
+    },
+    {
+        "name": "ME/M.tech",
+        "goal_id": "664245f50fc43781628a2a48"
+    },
+    {
+        "name": "Diploma in Engineering",
+        "goal_id": "664245f50fc43781628a2a49"
+    },
+    {
+        "name": "BBA/BMS",
+        "goal_id": "664245f50fc43781628a2a4a"
+    },
+    {
+        "name": "MBA/PGDM",
+        "goal_id": "664245f50fc43781628a2a47"
+    },
+    {
+        "name": "B.Com",
+        "goal_id": "664245f50fc43781628a2a48"
+    },
+    {
+        "name": "BCA",
+        "goal_id": "664245f50fc43781628a2a49"
+    },
+    {
+        "name": "B.Sc",
+        "goal_id": "664245f50fc43781628a2a4a"
+    },
+    {
+        "name": "B.Sc(nursing)",
+        "goal_id": "664245f50fc43781628a2a4a"
+    },
+    {
+        "name": "BA",
+        "goal_id": "664245f50fc43781628a2a4a"
+    },
+    {
+        "name": "BBA",
+        "goal_id": "664245f50fc43781628a2a4a"
+    },
+    {
+        "name": "B.Ed",
+        "goal_id": "664245f50fc43781628a2a4a"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "name":["Engineering"] ,
+        "status": "active",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fcollege%2Fnational-institute-of-technology-jalandhar-24247&psig=AOvVaw13w9IP-WMdrJ-AQZ6NMXGu&ust=1715614395575000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPizx-a3iIYDFQAAAAAdAAAAABAE"
+    },
+    {
+        "name": "Management",
+        "status": "active",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fcollege%2Fnational-institute-of-technology-jalandhar-24247&psig=AOvVaw13w9IP-WMdrJ-AQZ6NMXGu&ust=1715614395575000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPizx-a3iIYDFQAAAAAdAAAAABAE"
+    },
+    {
+        "name": "B.Sc",
+        "status": "active",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fcollege%2Fnational-institute-of-technology-jalandhar-24247&psig=AOvVaw13w9IP-WMdrJ-AQZ6NMXGu&ust=1715614395575000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPizx-a3iIYDFQAAAAAdAAAAABAE"
+    },
+    {
+        "name": "B.A",
+        "status": "active",
+        "img": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.shiksha.com%2Fcollege%2Fnational-institute-of-technology-jalandhar-24247&psig=AOvVaw13w9IP-WMdrJ-AQZ6NMXGu&ust=1715614395575000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPizx-a3iIYDFQAAAAAdAAAAABAE"
+    }
+]
