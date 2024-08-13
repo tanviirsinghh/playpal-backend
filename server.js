@@ -10,8 +10,8 @@ const AuthRouter = require('./routes/auth');
 const UserRouter = require('./routes/user');
 
 mongoose.connect(Config.DATABASE.URL, {
-  useNewUrlParser: true,
-  useUnifiedTopology: true,
+//   useNewUrlParser: true,
+//   useUnifiedTopology: true,
   ssl: true, // Ensure TLS/SSL is enabled
   // Ensure that invalid certificates are not allowed
 });
@@ -27,7 +27,7 @@ const app = express();
 
 app.use(cors());
 app.use(express.json());
-app.use(bodyParser.urlencoded({ extended: true }));
+// app.use(bodyParser.urlencoded({ extended: true }));
 // app.use(express.static("./public"))
 
 

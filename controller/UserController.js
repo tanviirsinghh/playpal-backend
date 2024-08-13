@@ -396,8 +396,12 @@ const getRecivedMessage = async (req, res) => {
 
 const searching = async (req, res) => {
     try {
-        const search = req.params.search
-        const data = await UserModel.find({ firstName: search })
+        // console.log(req.query)
+        // const search = req.params.search
+        const search = req.query.search;
+        
+        const regex = new RegExp(search, 'i');
+        const data = await UserModel.find({ firstName:{$regex: search, $options: "i" } })
         if (data) {
             return res.json(data)
         }

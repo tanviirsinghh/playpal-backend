@@ -25,7 +25,7 @@ const { verifyJWT } = require('../services/JWT');
     router.get("/getChatFriend/:friendId", UserController.getChatFriend)
     router.get("/getChat/:friendId", UserController.getChat)
     router.get("/getRecievedMessages", verifyJWT, UserController.getRecivedMessage)
-    router.get("/searchFriend/:search", UserController.searching)
+    router.get("/searchFriend", UserController.searching)
 }
 
 {
